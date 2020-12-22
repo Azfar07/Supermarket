@@ -6,18 +6,6 @@ import MyFrames.Transaction;
 import MyFrames.UpdateStock;
 import MyFrames.ViewCashier;
 import MyFrames.ViewStock;
-
-
-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-/**
- *
- * @author SAMEER
- */
 public class MainFrame extends javax.swing.JFrame {
 
     /**

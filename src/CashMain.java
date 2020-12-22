@@ -3,21 +3,7 @@ import MyFrames.CreateBill;
 import MyFrames.ProInfo;
 import MyFrames.SearchBill;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author SAMEER
- */
 public class CashMain extends javax.swing.JFrame {
-
-    /**
-     * Creates new form CashMain
-     */
     public CashMain() {
         initComponents();
     }

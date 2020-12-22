@@ -10,10 +10,6 @@
  */
 package MyFrames;
 
-/**
- *
- * @author SAMEER
- */
 public class Product {
  
     

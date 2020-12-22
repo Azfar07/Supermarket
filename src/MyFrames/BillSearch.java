@@ -5,10 +5,6 @@
  */
 package MyFrames;
 
-/**
- *
- * @author SAMEER
- */
 public class BillSearch {
  
     

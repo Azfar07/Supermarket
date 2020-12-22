@@ -9,10 +9,6 @@ import java.sql.*;
 import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author SAMEER
- */
 public class SearchBill extends javax.swing.JInternalFrame {
 
     /**
