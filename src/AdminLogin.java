@@ -35,7 +35,9 @@ public class AdminLogin extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Admin Login");
 
-        jPanel1.setBackground(new java.awt.Color(204, 204, 255));
+        jPanel1.setBackground(new java.awt.Color(140, 130, 200));
+        jPanel1.setToolTipText("");
+        jPanel1.setAutoscrolls(true);
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
         jLabel1.setText("  ADMIN LOGIN");
@@ -53,7 +55,7 @@ public class AdminLogin extends javax.swing.JFrame {
         });
 
         abtn.setFont(new java.awt.Font("Tahoma", 0, 16)); // NOI18N
-        abtn.setText("Login");
+        abtn.setText("SignIn");
         abtn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 abtnActionPerformed(evt);
